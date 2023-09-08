@@ -23,7 +23,7 @@ winget install Git.Git
 
 ## Activation: 
 ` irm https://massgrave.dev/get | iex `
-(https://github.com/massgravel/Microsoft-Activation-Scripts)[source]
+[source](https://github.com/massgravel/Microsoft-Activation-Scripts)
 
 ## Manual (in no particular order):
 Install Virtual Cable https://vb-audio.com/Cable/index.html
