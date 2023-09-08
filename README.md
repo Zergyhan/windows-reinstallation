@@ -26,9 +26,9 @@ winget install Git.Git
 [source](https://github.com/massgravel/Microsoft-Activation-Scripts)
 
 ## Manual (in no particular order):
-Install Virtual Cable https://vb-audio.com/Cable/index.html
-Set Dark Mode
-Autohide Taskbar
-Single Display
-Pin apps
-Setup Audio
+- Install Virtual Cable https://vb-audio.com/Cable/index.html
+- Set Dark Mode
+- Autohide Taskbar
+- Single Display
+- Pin apps
+- Setup Audio
