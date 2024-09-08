@@ -22,7 +22,7 @@ winget install Git.Git
 ```
 
 ## Activation: 
-` irm https://massgrave.dev/get | iex `
+` irm https://get.activated.win | iex `
 [source](https://github.com/massgravel/Microsoft-Activation-Scripts)
 
 ## Manual (in no particular order):
